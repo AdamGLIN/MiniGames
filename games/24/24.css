@@ -1,0 +1,17 @@
+.operation {
+    width: 10%;
+    aspect-ratio: 1;
+    background-color: grey;
+}
+
+.card {
+    width: 10%;
+    aspect-ratio: 1;
+    background-color: grey;
+}
+
+.slot {
+    width: 5%;
+    aspect-ratio: 1;
+    background-color: white;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.h_container {
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
